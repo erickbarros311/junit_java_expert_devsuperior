@@ -1,4 +1,4 @@
-# AulaJunitDevSuperior
+# JunitDevSuperior Java Expert
 
 > **Status:** In Development
 
